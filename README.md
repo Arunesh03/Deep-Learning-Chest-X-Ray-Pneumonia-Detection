@@ -135,6 +135,4 @@ This prints the predicted class (`NORMAL` or `PNEUMONIA`) along with confidence 
 - **This project is for educational and research purposes only.** It is not a validated diagnostic tool and must not be used for actual clinical decision-making without rigorous clinical validation, regulatory approval, and physician oversight.
 
 
-## License
 
-Specify your preferred license here (e.g., MIT).
